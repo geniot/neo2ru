@@ -2,7 +2,7 @@
 
 Suppose you have this device:
 
-![alt text](dist/neo2.png "")
+![alt text](screenshots/neo2.png "")
 
 It's called <a href="https://en.wikipedia.org/wiki/AlphaSmart">AlphaSmart Neo 2</a>.
 
@@ -12,7 +12,7 @@ How would you do it?
 
 You would need a data cable like this one:
 
-![alt text](dist/cable.jpg "")
+![alt text](screenshots/cable.jpg "")
 
 And a PC with a Windows operating system. In my test here I'm using Windows 10.
 
@@ -24,7 +24,7 @@ In the Device Manager --> Devices --> Alphasmart is with a yellow (warning sign)
 
 When you successfully connect Neo2 to your PC you will see it in the Neo Manager:
 
-![alt text](dist/neo_manager.png "")
+![alt text](screenshots/neo_manager.png "")
 
 # Font Installation
 
@@ -49,7 +49,7 @@ Well, not for me. That's why I wrote this program.
 
 You need to install Java (at least 17). Just double-click on the jar file. You should see something like this:
 
-![alt text](dist/screenshot.png "")
+![alt text](screenshots/screenshot.png "")
 
 Basically you need to copy the text from the Neo Manager text field to the Replacer and then click on the button "en2ru".
 
